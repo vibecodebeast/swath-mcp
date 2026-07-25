@@ -1,4 +1,4 @@
-#!/usr/bin/env npx tsx
+#!/usr/bin/env node
 /**
  * Swath MCP server (spec §3.5) — exposes the Swath V1 API as agent tools.
  *
