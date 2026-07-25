@@ -2,6 +2,8 @@
 
 MCP server for [Swath API](https://swathapi.com) — **America's first AI-native storm intelligence API**. Radar-verified hail and damaging-wind swaths, and every property under them, inside Claude, ChatGPT, or any MCP client.
 
+[![swath-mcp MCP server](https://glama.ai/mcp/servers/@vibecodebeast/swath-mcp/badges/score.svg)](https://glama.ai/mcp/servers/@vibecodebeast/swath-mcp)
+
 ## Tools
 
 | Tool | What it does |
